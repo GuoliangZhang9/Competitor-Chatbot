@@ -13,6 +13,7 @@ pydantic>=2.6
 
 # ===== Streamlit front‑end & widgets =====
 streamlit>=1.30
+streamlit-aggrid
 
 # ===== utilities =====
 python-dotenv>=1.0
